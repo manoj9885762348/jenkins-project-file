@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Static Analysis saaa Cron') {
             steps {
-                echo 'Run the static analysis to the code' 
+                echo 'Run the static analysiss to the code' 
             }
         }
         stage('Compile') {
